@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Salim Oussaifi 👋
 
-<!--
-**tapnovadev-ops/tapnovadev-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Backend Developer (NestJS, Prisma, PostgreSQL)
+- 📱 Flutter Developer
+- 🏗️ Building ERP Systems
+- 📊 Learning AI & Business Intelligence
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Node.js / NestJS
+- PostgreSQL
+- Prisma ORM
+- Flutter
+- Firebase
+- Git & GitHub
+
+---
+
+## 🎯 2026 Goals
+- Master Backend Architecture
+- Build Production-Level ERP
+- Improve Problem Solving Skills
+- Grow in AI & BI
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nova-tap-264b40389/
